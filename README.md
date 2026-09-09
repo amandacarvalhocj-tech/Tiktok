@@ -51,15 +51,12 @@ Para utilizar o TikTok, é necessário possuir:
 
 Alguns recursos podem variar de acordo com o país, região, dispositivo e versão do aplicativo.
 
-O TikTok foi desenvolvido pela ByteDance, empresa de tecnologia responsável pela criação e desenvolvimento da plataforma.
+O TikTok foi desenvolvido pela Gitutok, empresa de tecnologia responsável pela criação e desenvolvimento da plataforma.
 
-## Fundadores
+## Desenvolvedores e criadores da empresa:
 
-Entre os fundadores da ByteDance estão:
-
-- Zhang Yiming
-- Liang Rubo
-- outros membros da equipe fundadora da ByteDance
+- Amanda Carvalho
+- Gabriel Monteiro
 
 ## Fonte das informações
 
