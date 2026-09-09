@@ -6,7 +6,7 @@ O TikTok é destinado a pessoas que desejam assistir, criar e compartilhar víde
 
 A plataforma possui usuários de diferentes idades e interesses, incluindo criadores de conteúdo, empresas, artistas e pessoas que utilizam o aplicativo para entretenimento e comunicação.
 
-Funcionalidades
+##Funcionalidades
 
 - Criar e publicar vídeos;
 - Assistir vídeos curtos;
@@ -21,8 +21,7 @@ Funcionalidades
 - Receber recomendações personalizadas de conteúdo;
 - Utilizar recursos de compra pelo TikTok Shop, quando disponível;
 
-
-Tecnologias utilizadas
+##Tecnologias utilizadas
 
 O TikTok utiliza diversas tecnologias.
 
@@ -37,7 +36,9 @@ Linguagens de programação utilizadas pelas equipes de engenharia do TikTok:
 
 Também são utilizados recursos relacionados a bancos de dados, sistemas distribuídos, Big Data, inteligência artificial, aprendizado de máquina e sistemas de recomendação.
 
-Requisitos técnicos para utilização
+##Requisitos técnicos para utilização
+
+##OQUE É NECESSÁRIO PARA UTILIZAR
 
 Para utilizar o TikTok, é necessário possuir:
 
@@ -46,9 +47,13 @@ Para utilizar o TikTok, é necessário possuir:
 - Sistema operacional compatível com a versão atual do aplicativo;
 - Uma conta TikTok para utilizar determinados recursos da plataforma.
 
+##RECURSOS
+
 Alguns recursos podem variar de acordo com o país, região, dispositivo e versão do aplicativo.
 
 O TikTok foi desenvolvido pela ByteDance, empresa de tecnologia responsável pela criação e desenvolvimento da plataforma.
+
+##FUNDADORES
 
 Entre os fundadores da ByteDance estão:
 
@@ -56,7 +61,7 @@ Entre os fundadores da ByteDance estão:
 - Liang Rubo
 - outros membros da equipe fundadora da ByteDance
 
-Fonte das informações
+##Fonte das informações
 
 As informações deste README foram baseadas em fontes oficiais do TikTok e de suas equipes de tecnologia.
 
